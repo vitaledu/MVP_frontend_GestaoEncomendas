@@ -111,10 +111,18 @@ Este projeto faz parte de um conjunto de três repositórios que se complementam
 
 - **API para Calcular Distância entre CEPs**
   - GitHub: [MVP_API_CalcularDistanciaCEP](https://github.com/vitaledu/MVP_API_CalcularDistanciaCEP)
+
 - **API para Gestão de Encomendas**
   - GitHub: [MVP_API_GestaoEncomendas](https://github.com/vitaledu/MVP_API_GestaoEncomendas)
+
 - **Frontend para Gestão de Encomendas (este repositório)**
   - GitHub: [MVP_frontend_GestaoEncomendas](https://github.com/vitaledu/MVP_frontend_GestaoEncomendas)
+
+-   **Miro com a Arquitetura da Aplicação** 
+	- [**Link de Acesso**](https://miro.com/app/board/uXjVKzv-qXg=/)
+
+## Diagrama da Aplicação
+![Diagrama da Aplicação](./images/diagrama.jpg)
 
 ## Contato
 
